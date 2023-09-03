@@ -1,5 +1,7 @@
 # Guess-My-Number
 [click here to play 👈👈👈](https://saurabhalagdeve.github.io/Guess-My-Number/)
+
+
 Guess My Number Game
 Game Screenshot
 
@@ -32,6 +34,9 @@ Getting Started
 To run this game locally, follow these steps:
 
 Clone this repository to your local machine using git clone.
+
+[click here to play 👈👈👈](https://saurabhalagdeve.github.io/Guess-My-Number/)
+
 
 bash
 Copy code
